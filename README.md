@@ -75,4 +75,4 @@ To offer a comprehensive data storytelling tool that:
 * 🎯 **Marketing Optimization**: Enables targeted campaigns based on genre popularity or country trends
 
 ### 6. Snapshot/Demo
-![Preview of the dashboard]()
+![Preview of the dashboard](https://github.com/Rashi26Sharma/Netflix-Content-Analysis/blob/main/Snapshot%20of%20the%20Netflix%20Dashboard.png)
